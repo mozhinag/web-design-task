@@ -1,0 +1,21 @@
+
+a{
+    text-decoration: underline important;
+}
+
+
+.box {
+    background-color: lavenderblush;
+}
+.container{
+
+    text-align: center;
+    padding:20px 2px;
+}
+
+.boxpart{
+    
+    background-color: white;
+    margin: 20px 20px 20px 20px;
+
+}
